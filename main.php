@@ -6,13 +6,7 @@ $isMale = true;
 var_dump($isMale);
 var_dump($myName);
 var_dump($myAge);
-//die();
-$insNull;
-var_dump($insNull);
-//die();
-$x = 10;
-$y = '2 a';
-echo $x + $y;
-echo "My name is $myName and I am $myAge years old.";  '<br>'
+
+echo "My name is $myName and I am $myAge years old.";
 
 ?>
